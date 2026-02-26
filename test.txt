@@ -1,6 +1,10 @@
-my name is mohammad
+It's sunny outside todaymy name is mohammad
 i am 23 years
 i am a student for hashmity university
 q
+<<<<<<< HEAD
 hello branch
-It's windy outside today
+=======
+It's cloudy outside today
+
+>>>>>>> update-readme
