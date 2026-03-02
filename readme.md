@@ -4,3 +4,5 @@
 #### a fourth level heading
 
 **this text is _important_**
+
+this is a <sup>superscript</sup> text
