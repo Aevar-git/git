@@ -15,3 +15,4 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
