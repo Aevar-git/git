@@ -12,6 +12,7 @@ this is `git status`
 
 this is :
 ```
-git add
-git commit
+function test() {
+  console.log("notice the blank line before this function test() 
+{ 
 ```
