@@ -8,3 +8,10 @@
 this is a <sub>up</sub> text 
 this is a <sup>superscript</sup> text
 
+this is `git status`
+
+this is :
+```
+git add
+git commit
+```
