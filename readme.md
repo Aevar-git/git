@@ -10,9 +10,8 @@ this is a <sup>superscript</sup> text
 
 this is `git status`
 
-this is :
-```
-function test() {
-  console.log("notice the blank line before this function test() 
-{ 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
